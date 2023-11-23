@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">15Dias_IkerLabargaCuadra</string>
+    <string name="fuego_name">Fuego</string>
+    <string name="rueda_name">Rueda</string>
+    <string name="arado_name">Arado</string>
+    <string name="polvora_name">Polvora</string>
+    <string name="hormigon_name">Hormigon</string>
+    <string name="bombilla_name">Maquina de vapor</string>
+    <string name="maquina_vapor_name">Maquina de vapor</string>
+    <string name="imprenta_name">Imprenta</string>
+    <string name="avion_name">Avión</string>
+    <string name="antibioticos_name">Antibioticos</string>
+    <string name="motor_combustion_name">Motor de combustion</string>
+    <string name="telegrafo_name">Telegrafo</string>
+    <string name="ordenador_name">Ordenador</string>
+    <string name="telefono_name">Telefono</string>
+    <string name="internet_name">Internet</string>
+
+    <string name="fuego_desc">El descubrimiento fundamental que marcó el comienzo de la civilización, utilizado para cocinar, calentarse y protegerse.</string>
+    <string name="rueda_desc">La rueda revolucionó el transporte y facilitó el movimiento de bienes y personas.</string>
+    <string name="arado_desc">El arado permitió la agricultura eficiente al facilitar la labranza de la tierra para la siembra.</string>
+    <string name="polvora_desc">La pólvora transformó la guerra y la tecnología militar.</string>
+    <string name="hormigon_desc">El hormigón es un material de construcción clave por su durabilidad y versatilidad.</string>
+    <string name="bombilla_desc">La bombilla eléctrica fue un avance crucial en la iluminación artificial.</string>
+    <string name="maquina_vapor_desc">La máquina de vapor fue fundamental en la Revolución Industrial, impulsando la mecanización y la producción en masa.</string>
+    <string name="imprenta_desc">La imprenta revolucionó la difusión de conocimientos al permitir la reproducción masiva de libros y textos.</string>
+    <string name="avion_desc">El avión cambió radicalmente los viajes y la conectividad global.</string>
+    <string name="antibioticos_desc">Los antibióticos revolucionaron la medicina al combatir eficazmente las infecciones bacterianas.</string>
+    <string name="motor_combustion_desc">El motor de combustión interna impulsó la revolución del transporte.</string>
+    <string name="telegrafo_desc">El telégrafo permitió la comunicación instantánea a larga distancia, sentando las bases de las telecomunicaciones modernas.</string>
+    <string name="ordenador_desc">El ordenador marcó el inicio de la era de la computación y la automatización.</string>
+    <string name="telefono_desc">El teléfono revolucionó las comunicaciones al permitir la transmisión de voz a larga distancia.</string>
+    <string name="internet_desc">El internet ha transformado radicalmente la comunicación, el acceso a la información y la interconexión global.</string>
+
+    <string name="fuego_año">7000 A.C</string>
+    <string name="rueda_año">2500 A.C</string>
+    <string name="arado_año">3500 A.C</string>
+    <string name="polvora_año">1200 D.C</string>
+    <string name="hormigon_año">1824 D.C</string>
+    <string name="bombilla_año">1879 D.C</string>
+    <string name="maquina_vapor_año">1765  D.C</string>
+    <string name="imprenta_año">1440 D.C</string>
+    <string name="avion_año">1903 D.C</string>
+    <string name="antibioticos_año">1928 D.C</string>
+    <string name="motor_combustion_año">1860 D.C</string>
+    <string name="telegrafo_año">1835 D.C</string>
+    <string name="ordenador_año">1822 D.C</string>
+    <string name="telefono_año">1876 D.C</string>
+    <string name="internet_año">1969 D.C</string>
+
+    <string name="titleapp">TopInventos</string>
+</resources>
